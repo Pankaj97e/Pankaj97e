@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pankaj97e
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Web Technologies.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ....
 
 <!---
